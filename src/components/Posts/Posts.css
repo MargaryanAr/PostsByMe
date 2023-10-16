@@ -1,0 +1,12 @@
+.container button {
+    width: 200px;
+    height: 60px;
+    cursor: pointer;
+    background-color: #6e4747;
+    color: white;
+    font-size: 20px;
+}
+
+.container button:hover {
+    background-color: #3d2727;
+}
